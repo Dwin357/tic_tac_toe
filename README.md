@@ -1,9 +1,7 @@
 ## Tic Tac Toe
 
-This is a project I did for a code challenge on a private repo (copied over w/ permission), where the challenge was to take a horribly built, untested, malfunctioning program and bring it to a usable state + extend it.  In order to protect the privacy of the company who's code challenge it was, I've wiped out the commit history.  But I was proud of the craftsmanship of my final product and wanted to show it off, so here it is.
-
 ### Install
-clone repo from github.
+clone repo from github.  This app uses ruby 2.4.0.
 
 ### Play
 Run ```$ ruby app.rb``` from the root directory of the application.

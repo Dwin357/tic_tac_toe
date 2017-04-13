@@ -16,6 +16,12 @@
 # users commonly want.
 
 require 'byebug'
+require 'securerandom'
+
+def junk
+  SecureRandom.uuid
+end
+
 #
 # See http://rubydoc.info/gems/rspec-core/RSpec/Core/Configuration
 RSpec.configure do |config|

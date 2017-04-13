@@ -1,3 +1,3 @@
-require_relative 'lib/game_repel'
+require_relative 'lib/operations/main'
 
-GameRepel.new.start_game
+Operation::Main.new.run
